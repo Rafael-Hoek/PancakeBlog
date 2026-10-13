@@ -5,7 +5,7 @@ title: Resume
 
 **Software Engineer**
 
-(+32) 470 56 08 22 · [rafael.hoek@gmail.com](mailto:rafael.hoek@gmail.com) · [github.com/Rafael-Hoek](https://github.com/Rafael-Hoek)
+[rafael.hoek@gmail.com](mailto:rafael.hoek@gmail.com) · [github.com/Rafael-Hoek](https://github.com/Rafael-Hoek)
 
 ## About
 
